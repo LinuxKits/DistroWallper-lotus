@@ -3,7 +3,7 @@ Lotus/Fish script for this project, add wallpaper into your system!
 
 # Usage
 
-1. Install (Lotus Engine)[https://github.com/TeaHouseLab/Lotus] first
+1. Install [Lotus Engine](https://github.com/TeaHouseLab/Lotus) first
 
 2. Download script from github release
 
